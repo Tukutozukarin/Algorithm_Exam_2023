@@ -1,0 +1,7 @@
+Exercise 03:
+
+The new graph takes a little longer than the undirected graph defaults.
+Since it needs to compare and check if it contains skis.
+While undirected graph uses equals to check through the paths.
+Which makes undirected graph more efficient.
+
